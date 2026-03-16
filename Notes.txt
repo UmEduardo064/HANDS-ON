@@ -1,0 +1,29 @@
+Base Bibliográfica (mínimo 5)
+
+Primaria:
+
+Técnicas
+|_Linguagem de Prog
+|_Framework especifico
+
+Secundaria
+|_Contexto
+|_Domínio
+|_Área Especifica 
+
+Complementar
+|_Cursos
+|_Trabalhos acadêmicos 
+
+
+
+Machine learning
+
+
+Sites para pesquisa:
+
+https://br.hubspot.com/
+https://www.salesforce.com/br/
+
+"Google Agenda"
+
